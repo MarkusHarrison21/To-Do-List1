@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    background: rgba(0, 60, 128, 0.3);
+    font-size: 20px;
+}
+
+.header{
+    font-size: 36px;
+    color: whitesmoke;
+    background-color:  darkblue;
+    opacity: 50%;
+    text-align: center;
+}
+
+#list {
+    list-style: none;
+}
+
